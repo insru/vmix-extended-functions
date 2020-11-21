@@ -15,7 +15,7 @@
 * Download and install [NodeJS LTS](https://nodejs.org/en/)
 * Download repo (Code -> Download ZIP)
 * Unzip
-* Copy `gi-master` folder to disc C.
+* Copy `vmix-extended-functions-master` folder to disc C.
 * Run `C:\vmix-extended-functions-master\install.cmd`
 * App will start automatically on windows startup
 * Also you could control it from windows `cmd`
